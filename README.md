@@ -3,6 +3,6 @@
 
 - Pure CSS, no frameworks
 
-### 👁️[ View Online](https://react-digital-card.netlify.app/)
+### 👁️[ View Online](https://mini-airbnb.vercel.app/)
 
 ![Print](./src/images/print.png)
