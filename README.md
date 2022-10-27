@@ -5,4 +5,4 @@
 
 ### 👁️[ View Online](https://mini-airbnb.vercel.app/)
 
-![Print](./src/images/print.png)
+![Print](./public/images/print.png)
